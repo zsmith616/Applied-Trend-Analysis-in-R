@@ -23,7 +23,7 @@ Population estimates to calculate mortality rates were obtained using Census and
 - 2_trend_analysis_walkthrough.R: Overview of how to conduct the trend analysis
 - 3_trend_analysis-guidedpractice.R: A script to test your understanding and application of data preparation and trend analysis. User must fill in the blanks and answer questions to get code to run.
 - 3a_trend_analysis_gp_answerkey.R: Answer key for the first guided practice.
-- 4_subgroup_analyses_walkthrough.R: Overview of how to conduct a subgroup analysis.
+- 4_cause_subanalysis_walkthrough.R: Overview of how to conduct a subgroup analysis.
 - 5_county_subanalysis_guided_practice.R: A script to test your understanding and application of conducting a subanalysis. User must fill in the blanks and answer questions to get code to run.
 - 5a_county_subanalysis_answer_key.R: Answer key for the second guided practice.
 
