@@ -2,7 +2,7 @@
 This repository contains materials for the Applied Trend Analysis in R workshop, covering the fundamentals of trend analysis, focusing on detecting and identifying for further investigation anomalies in public health surveillance data using the excessmort R package. The workshop was developed for the CSTE Annual Meeting on June 8, 2025. 
 
 ## What you'll learn
-Pariticpants will learn how to: 
+Participants will learn how to: 
 1. Explain the utility of trend analysis to identify events of public health significance
 2. Apply  regression modeling to detect and visualize anomalies in example datasets using the provided tools
 3. Identify strengths and limitations and interpret public health implications of trend analysis results
@@ -36,7 +36,7 @@ Population estimates to calculate mortality rates were obtained using Census and
 - demo_by_year_by_race_2010-2020_MI.csv: Population data by race used in scripts 3 and 4.
 
 ## About the Training
-This workshop was developed by members of the Johns Hopkins Bloomberg School of Public Heatlh Surveillance & Outbreak Response Team. The excessmort R package, which is the focus on the training, was developed by Rafael Irizarry and Rolando Acosta and more information can be found at https://cran.r-project.org/web/packages/excessmort/vignettes/excessmort.html.
+This workshop was developed by members of the Johns Hopkins Bloomberg School of Public Health Surveillance & Outbreak Response Team. The excessmort R package, which is the focus on the training, was developed by Rafael Irizarry and Rolando Acosta and more information can be found at https://cran.r-project.org/web/packages/excessmort/vignettes/excessmort.html.
 
 ## License
 All materials in this repository are shared under the Applied Trend Analysis in R © 2025 by BSPH Surveillance & Outbreak Response Team licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
