@@ -4,7 +4,7 @@ This repository contains materials for the Applied Trend Analysis in R workshop,
 ## What you'll learn
 Participants will learn how to: 
 1. Explain the utility of trend analysis to identify events of public health significance
-2. Apply  regression modeling to detect and visualize anomalies in example datasets using the provided tools
+2. Apply regression modeling to detect and visualize anomalies in example datasets using the provided tools
 3. Identify strengths and limitations and interpret public health implications of trend analysis results
 4. Brainstorm additional public health applications for these tools in their communities
 
