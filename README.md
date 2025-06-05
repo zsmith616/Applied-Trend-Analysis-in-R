@@ -41,5 +41,6 @@ This workshop was developed by members of the Johns Hopkins Bloomberg School of 
 ## License
 All materials in this repository are shared under the Applied Trend Analysis in R © 2025 by BSPH Surveillance & Outbreak Response Team licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
-
+## Acknowledgements 
+Funding for this workshop was made possible in part by cooperative agreement CDC-RFA-FT-23-0069 from the CDC’s Center for Forecasting and Outbreak Analytics. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services/Centers for Disease Control and Prevention nor does mention of trade names, commercial practices, or organizations imply endorsement by the U.S. Government.
 
