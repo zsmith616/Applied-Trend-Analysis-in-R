@@ -22,7 +22,7 @@ The repository contains materials from two iterations of the workshop, one from 
 
 2. a reworked interpretation and communication activity in the slides.
 
-Navigate to the "2025" or "2026" folder to access the preferred materials. *The "2026" folder is underdevelopment and will be updated prior to May 31, 2026.*
+Navigate to the "2025" or "2026" folder to access the preferred materials. *The "2026" folder is under development and will be updated prior to May 31, 2026.*
 
 The "2025" folder contains the following materials:
 
