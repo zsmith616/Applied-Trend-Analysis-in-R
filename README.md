@@ -1,5 +1,8 @@
 # Applied Trend Analysis R Workshop
-This repository contains materials for the Applied Trend Analysis in R workshop, covering the fundamentals of trend analysis, focusing on detecting and identifying for further investigation anomalies in public health surveillance data using the excessmort R package. The workshop was originally developed for the 2025 CSTE Annual Conference. 
+This repository contained the materials for the Applied Trend Analysis in R workshop, covering the fundamentals of trend analysis, focusing on detecting and identifying for further investigation anomalies in public health surveillance data using the excessmort R package. The workshop was originally developed for the 2025 CSTE Annual Conference. 
+
+## Important Note
+As of April 6, 2026, this repository is no longer updated. For updated materials, please visit: https://github.com/sort-jh/Applied-Trend-Analysis-in-R.
 
 ## What You Will Learn
 The materials in this repository will help you to: 
@@ -16,14 +19,7 @@ The process of transforming the data included downloading county-level underlyin
 Population estimates to calculate mortality rates were obtained using Census and American Community Surveys population estimates for Michigan between 2010 and 2020.
 
 ## Repository Contents
-The repository contains materials from two iterations of the workshop, one from the 2025 CSTE Annual Conference and one from the 2026 CSTE Annual Conference. The 2025 and 2026 iterations are identical except for the following additions to the 2026 iteration:
-
-1. additional methodological details about and practice with handling with small counts / rare outcomes in the slides and code, and
-
-2. a reworked interpretation and communication activity in the slides.
-
-Navigate to the "2025" or "2026" folder to access the preferred materials. *The "2026" folder is under development and will be updated prior to May 31, 2026.*
-
+The repository contains materials from the iteration of the workshop delivered at the 2025 CSTE Annual Conference.
 The "2025" folder contains the following materials:
 
 1. Slides from training explaining the background, data sources, analysis process and interpretation of results.
@@ -52,4 +48,4 @@ This workshop was developed by members of the Johns Hopkins Bloomberg School of 
 All materials in this repository are shared under the Applied Trend Analysis in R © 2025 by BSPH Surveillance & Outbreak Response Team licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Acknowledgements 
-Funding for developing the initial workshop in 2025 was made possible in part by cooperative agreement CDC-RFA-FT-23-0069 from the CDC’s Center for Forecasting and Outbreak Analytics. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services/Centers for Disease Control and Prevention nor does mention of trade names, commercial practices, or organizations imply endorsement by the U.S. Government.
+Funding for developing the 2025 workshop was made possible in part by cooperative agreement CDC-RFA-FT-23-0069 from the CDC’s Center for Forecasting and Outbreak Analytics. The views expressed in written conference materials or publications and by speakers and moderators do not necessarily reflect the official policies of the Department of Health and Human Services/Centers for Disease Control and Prevention nor does mention of trade names, commercial practices, or organizations imply endorsement by the U.S. Government.
